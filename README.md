@@ -101,7 +101,7 @@
 
 <p align="center">
 <a href="https://github.com/bryan027z">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bryan027z&show_icons=true&locale=en" alt="bryan027z"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api username=bryan027z&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryan027z&show_icons=true&locale=en&layout=compact" alt="bryan027z"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan027z&" alt="bryan027z"/>
 </a>
