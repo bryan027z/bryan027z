@@ -104,6 +104,7 @@
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bryan027z&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="bryan027z"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bryan027z&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=bryan027z&layout=compact&langs_count=8&theme=algolia"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan027z&" alt="bryan027z" /></p>
 </a>
 </a>
 </p>
