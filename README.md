@@ -109,6 +109,11 @@
 </p>
 <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryan027z&show_icons=true&locale=en&layout=compact" alt="bryan027z" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan027z&show_icons=true&locale=en" alt="bryan027z" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan027z&" alt="bryan027z" /></p>
                                                                                       
 </td>  
 </table>                                                                                 
