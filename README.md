@@ -36,7 +36,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-## Proyectos *Chatbots IA*
+## Proyectos *bombitas*
 <table>
 <tr>
 <td width="50%">
@@ -58,7 +58,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Creacion de Web en .netcore</h3>
+<h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
@@ -79,7 +79,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">app usando </h3>
+<h3 align="center">Curso Android Intermedio</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
 <p>
@@ -96,7 +96,7 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">CCNA laboratorio</h3>
+<h3 align="center">Curso Kotlin Multiplatform</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
@@ -109,14 +109,21 @@
 </p>
 <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryan027z&show_icons=true&locale=en&layout=compact" alt="bryan027z" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan027z&show_icons=true&locale=en" alt="bryan027z" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan027z&" alt="bryan027z" /></p>
                                                                                       
 </td>  
 </table>                                                                                 
 </div>
 <br>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryan027z&show_icons=true&locale=en&layout=compact" alt="bryan027z" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan027z&show_icons=true&locale=en" alt="bryan027z" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan027z&" alt="bryan027z" /></p>
+
+</a>
+</p>
