@@ -30,8 +30,8 @@
 ### 🧰 Languages and Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,kubernetes,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,kubernetes,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=cisco,python,javascript,firebase,java,mysql" /><br>
 </div>
 
 <br />
