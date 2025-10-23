@@ -22,7 +22,7 @@
 
 <br />
 
-### Proyectos *bombitas*
+### Proyectos 
 <table>
 
 
