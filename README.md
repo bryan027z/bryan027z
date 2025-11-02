@@ -25,7 +25,6 @@
 
 <table>
   <!-- ORACLE -->
-
   <tr>
     <td align="center" width="150">
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="100" alt="Oracle Logo"/><br>
@@ -33,7 +32,7 @@
     </td>
     <td align="center" width="600">
       <a href="https://education.oracle.com/" target="_blank">
-        <img src="https://github.com/bryan027z/img/blob/main/IAgenerativa.png?raw=true" width="200" alt="Oracle Generative AI Certification"/>
+        <img src="https://github.com/bryan027z/bryan027z/blob/main/img/IAgenerativa.png?raw=true" width="200" alt="Oracle Generative AI Certification"/>
       </a>
     </td>
   </tr>
