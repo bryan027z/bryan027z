@@ -19,7 +19,6 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,kubernetes,html,css,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=CCNA,python,javascript,firebase,java,mysql" /><br>
 </div>
-
 ### 🏅 Mis Certificaciones
 
 <div align="center">
@@ -39,7 +38,7 @@
         <img src="https://github.com/bryan027z/img/blob/main/OCI25AICFA.jpeg?raw=true" width="150" alt="OCI AI Foundations Associate"/>
       </a>
       <a href="https://education.oracle.com/oci-generative-ai-professional/pexam_1Z0-1129-25" target="_blank">
-        <img src="https://github.com/bryan027z/img/blob/main/IAgenerativa.jpeg?raw=true" width="150" alt="OCI Generative AI Professional"/>
+        <img src="https://github.com/bryan027z/img/blob/main/IAgenerativa.png?raw=true" width="150" alt="OCI Generative AI Professional"/>
       </a>
     </td>
   </tr>
@@ -59,7 +58,7 @@
       </a>
     </td>
   </tr>
-</div>
+
   <!-- GOOGLE CLOUD -->
   <tr>
     <td align="center" width="150">
@@ -76,6 +75,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ### Proyectos 
 <table>
