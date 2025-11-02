@@ -21,39 +21,26 @@
 </div>
 
 <br />
-### 🏅 Mis Insignias (Badges)
+### 🏛️ Certificaciones Oracle
 
 <div align="center">
 
 <table>
   <tr>
-    <th>🏛️ Oracle</th>
-    <th>☁️ Microsoft Azure</th>
-    <th>🔍 Google Cloud</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://education.oracle.com/your-oracle-badge-link" target="_blank">
-        <img src="https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified Badge"/>
-      </a><br>
-      <a href="https://education.oracle.com/another-badge" target="_blank">
-        <img src="https://img.shields.io/badge/OCI%20Foundations-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud Badge"/>
-      </a>
+    <td align="center" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="100" alt="Oracle Logo"/>
+      <br>
+      <strong>Oracle Certified</strong>
     </td>
-    <td align="center">
-      <a href="https://learn.microsoft.com/es-es/users/your-azure-badge-link" target="_blank">
-        <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Badge"/>
-      </a><br>
-      <a href="https://learn.microsoft.com/es-es/users/another-azure-badge" target="_blank">
-        <img src="https://img.shields.io/badge/Azure%20AI%20Basics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI Badge"/>
+    <td align="center" width="600">
+      <a href="https://education.oracle.com/oci-foundations-associate/pexam_1Z0-1085-25" target="_blank">
+        <img src="https://github.com/tuusuario/tu-repo/assets/OCI25FNDCFA.jpeg" width="150" alt="OCI Foundations Associate"/>
       </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/earner/your-google-badge" target="_blank">
-        <img src="https://img.shields.io/badge/Google%20Cloud%20Digital%20Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Badge"/>
-      </a><br>
-      <a href="https://www.credly.com/earner/your-google-ml-badge" target="_blank">
-        <img src="https://img.shields.io/badge/Google%20AI%20Essentials-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google AI Badge"/>
+      <a href="https://education.oracle.com/oci-ai-foundations-associate/pexam_1Z0-1128-25" target="_blank">
+        <img src="https://github.com/tuusuario/tu-repo/assets/OCI25AICFA.jpeg" width="150" alt="OCI AI Foundations Associate"/>
+      </a>
+      <a href="https://education.oracle.com/oci-generative-ai-professional/pexam_1Z0-1129-25" target="_blank">
+        <img src="https://github.com/tuusuario/tu-repo/assets/OCI25GAIOCP.jpg" width="150" alt="OCI Generative AI Professional"/>
       </a>
     </td>
   </tr>
