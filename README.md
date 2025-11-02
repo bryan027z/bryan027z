@@ -33,6 +33,13 @@
     <td align="center" width="600">
       <a href="https://education.oracle.com/" target="_blank">
         <img src="https://github.com/bryan027z/bryan027z/blob/main/img/IAgenerativa.png?raw=true" width="200" alt="Oracle Generative AI Certification"/>
+          <img src="https://github.com/bryan027z/bryan027z/blob/main/img/IAgenerativa.png?raw=true" 
+       width="200" 
+       alt="Oracle Generative AI Certification"/>
+
+  <img src="https://github.com/bryan027z/bryan027z/blob/main/img/OCI25FNDCFAV1.png?raw=true" 
+       width="200" 
+       alt="Oracle Cloud Infrastructure 2025 Foundation Associate"/>  
       </a>
     </td>
   </tr>
