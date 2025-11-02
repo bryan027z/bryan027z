@@ -25,20 +25,15 @@
 
 <table>
   <!-- ORACLE -->
+
   <tr>
     <td align="center" width="150">
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="100" alt="Oracle Logo"/><br>
       <strong>Oracle Certified</strong>
     </td>
     <td align="center" width="600">
-      <a href="https://education.oracle.com/oci-foundations-associate/pexam_1Z0-1085-25" target="_blank">
-        <img src="https://github.com/bryan027z/img/blob/main/OCI25FNDCFA.jpeg?raw=true" width="150" alt="OCI Foundations Associate"/>
-      </a>
-      <a href="https://education.oracle.com/oci-ai-foundations-associate/pexam_1Z0-1128-25" target="_blank">
-        <img src="https://github.com/bryan027z/img/blob/main/OCI25AICFA.jpeg?raw=true" width="150" alt="OCI AI Foundations Associate"/>
-      </a>
-      <a href="https://education.oracle.com/oci-generative-ai-professional/pexam_1Z0-1129-25" target="_blank">
-        <img src="https://github.com/bryan027z/img/blob/main/IAgenerativa.png?raw=true" width="150" alt="OCI Generative AI Professional"/>
+      <a href="https://education.oracle.com/" target="_blank">
+        <img src="https://github.com/bryan027z/img/blob/main/IAgenerativa.png?raw=true" width="200" alt="Oracle Generative AI Certification"/>
       </a>
     </td>
   </tr>
