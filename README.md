@@ -21,15 +21,15 @@
 </div>
 
 <br />
-### 🏛️ Certificaciones Oracle
+### 🏅 Mis Certificaciones
 
 <div align="center">
 
 <table>
+  <!-- ORACLE -->
   <tr>
     <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="100" alt="Oracle Logo"/>
-      <br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="100" alt="Oracle Logo"/><br>
       <strong>Oracle Certified</strong>
     </td>
     <td align="center" width="600">
@@ -44,7 +44,40 @@
       </a>
     </td>
   </tr>
+
+  <!-- AZURE -->
+  <tr>
+    <td align="center" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="100" alt="Azure Logo"/><br>
+      <strong>Microsoft Azure</strong>
+    </td>
+    <td align="center" width="600">
+      <a href="https://learn.microsoft.com/es-es/users/your-azure-badge-link" target="_blank">
+        <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals Badge"/>
+      </a>
+      <a href="https://learn.microsoft.com/es-es/users/your-azure-ai-badge" target="_blank">
+        <img src="https://img.shields.io/badge/Azure%20AI%20Basics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI Badge"/>
+      </a>
+    </td>
+  </tr>
+
+  <!-- GOOGLE CLOUD -->
+  <tr>
+    <td align="center" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="100" alt="Google Cloud Logo"/><br>
+      <strong>Google Cloud</strong>
+    </td>
+    <td align="center" width="600">
+      <a href="https://www.credly.com/earner/your-google-badge" target="_blank">
+        <img src="https://img.shields.io/badge/Google%20Cloud%20Digital%20Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Badge"/>
+      </a>
+      <a href="https://www.credly.com/earner/your-google-ai-badge" target="_blank">
+        <img src="https://img.shields.io/badge/Google%20AI%20Essentials-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google AI Badge"/>
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 </div>
 ### Proyectos 
