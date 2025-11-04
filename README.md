@@ -33,13 +33,8 @@
     <td align="center" width="600">
       <a href="https://education.oracle.com/" target="_blank">
         <img src="https://github.com/bryan027z/bryan027z/blob/main/img/IAgenerativa.png?raw=true" width="200" alt="Oracle Generative AI Certification"/>
-          <img src="https://github.com/bryan027z/bryan027z/blob/main/img/IAgenerativa.png?raw=true" 
-       width="200" 
-       alt="Oracle Generative AI Certification"/>
-
-  <img src="https://github.com/bryan027z/bryan027z/blob/main/img/OCI25FNDCFAV1.png?raw=true" 
-       width="200" 
-       alt="Oracle Cloud Infrastructure 2025 Foundation Associate"/>  
+        <img src="https://github.com/bryan027z/bryan027z/blob/main/img/IAgenerativa.png?raw=true" width="200" alt="Oracle Generative AI Certification"/>
+        <img src="https://github.com/bryan027z/bryan027z/blob/main/img/OCI25FNDCFAV1.png?raw=true" width="200" alt="Oracle Cloud Infrastructure 2025 Foundation Associate"/>
       </a>
     </td>
   </tr>
@@ -72,6 +67,19 @@
       </a>
       <a href="https://www.credly.com/earner/your-google-ai-badge" target="_blank">
         <img src="https://img.shields.io/badge/Google%20AI%20Essentials-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google AI Badge"/>
+      </a>
+    </td>
+  </tr>
+
+  <!-- DATABRICKS -->
+  <tr>
+    <td align="center" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Databricks_logo.svg" width="100" alt="Databricks Logo"/><br>
+      <strong>Databricks</strong>
+    </td>
+    <td align="center" width="600">
+      <a href="https://www.credly.com/users/bryan027z/earned" target="_blank" title="Databricks Fundamentals">
+        <img src="https://github.com/bryan027z/img/blob/main/databricks%20fundamentals.png?raw=true" width="200" alt="Databricks Fundamentals Badge"/>
       </a>
     </td>
   </tr>
