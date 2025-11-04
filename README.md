@@ -47,7 +47,7 @@
     </td>
     <td align="center" width="600">
       <a href="https://learn.microsoft.com/es-es/users/your-azure-badge-link" target="_blank">
-        <img src="https://github.com/bryan027z/img/blob/main/descarga%20(6).png?raw=true" width="150" alt="Azure Badge"/>
+        <img src="img/AI-900+Badge.webp" width="150" alt="Azure Badge"/>
       </a>
       <a href="https://learn.microsoft.com/es-es/users/your-azure-ai-badge" target="_blank">
         <img src="https://img.shields.io/badge/Azure%20AI%20Basics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI Badge"/>
