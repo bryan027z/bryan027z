@@ -79,7 +79,7 @@
   </td>
   <td align="center" width="600">
     <a href="https://www.credly.com/users/bryan027z/earned" target="_blank" title="Databricks Fundamentals">
-      <img src="https://github.com/bryan027z/img/blob/main/databricks%20fundamentals.png?raw=true" 
+      <img src="https://github.com/bryan027z/img/blob/main/databricks fundamentals.png?raw=true" 
            width="200" 
            alt="Databricks Fundamentals Badge"/>
     </a>
