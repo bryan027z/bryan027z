@@ -72,16 +72,18 @@
   </tr>
 
   <!-- DATABRICKS -->
-  <tr>
-    <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Databricks_logo.svg" width="100" alt="Databricks Logo"/><br>
-      <strong>Databricks</strong>
-    </td>
-    <td align="center" width="600">
-      <a href="https://www.credly.com/users/bryan027z/earned" target="_blank" title="Databricks Fundamentals">
-        <img src="https://github.com/bryan027z/img/blob/main/databricks%20fundamentals.png?raw=true" width="200" alt="Databricks Fundamentals Badge"/>
-      </a>
-    </td>
+<tr>
+  <td align="center" width="150">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Databricks_logo.svg" width="100" alt="Databricks Logo"/><br>
+    <strong>Databricks</strong>
+  </td>
+  <td align="center" width="600">
+    <a href="https://www.credly.com/users/bryan027z/earned" target="_blank" title="Databricks Fundamentals">
+      <img src="https://github.com/bryan027z/img/blob/main/databricks%20fundamentals.png?raw=true" 
+           width="200" 
+           alt="Databricks Fundamentals Badge"/>
+    </a>
+  </td>
   </tr>
 </table>
 
